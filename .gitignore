@@ -1,1 +1,10 @@
  
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+*.log
+models/*.pt
+models/*.onnx
+venv/
+*.mp4
